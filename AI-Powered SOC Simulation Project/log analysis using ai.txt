@@ -1,0 +1,38 @@
+1. Website creation using Flask
+	1.app.py
+	2.templates -> Login.html
+	3.created environment to keep the dependencies separate -> 
+		python -m venv venv //to create
+		.\venv\Scripts\activate //to activate
+	4. Install Flask inside the environment -> pip install Flask
+	5.Run -> python app.py
+http://127.0.0.1:5000/
+===========================================================================
+2. Login (Brute force attack)
+	Correct Logins ->
+		Username: admin
+		Password: admin123
+
+		Username: user1
+		Password: pass123
+
+		Username: guest
+		Password: guest
+	Brute force using a python script -> bruteforce.py
+		1. open new terminal -> activate the environment
+		2.install requests -> pip install requests 
+		3. run the script -> python bruteforce.py
+===========================================================================
+3. Log parsing and structuring the data for analysis
+	1. Script that reads the log file, parses each entry, and stores the relevant data in a structured format (like a Pandas Data Frame) -> parse_logs.py
+	2. Install pandas -> pip install pandas
+	3. Run the script -> python parse_logs.py
+===========================================================================
+4. Anomaly Detection with Isolation Forest
+	1. anomaly detection script -> anomaly_detection.py
+	2. install pandas, scikit-learn and matplotlib -> pip install pandas scikit-learn matplotlib
+	3. Run the script -> python anomaly_detection.py
+	4. OUTPUT -> scatterplot with detected anomaly printed on the terminal
+
+
+

@@ -1,0 +1,535 @@
+[2025-04-18 01:14:24] LOGIN user=admin ip=127.0.0.1 status=SUCCESS agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 01:15:12] LOGIN user=user1 ip=127.0.0.1 status=SUCCESS agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 01:15:30] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 01:15:39] LOGIN user=yath ip=127.0.0.1 status=FAILURE agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 01:18:36] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:18:36] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:18:36] LOGIN user=admin ip=127.0.0.1 status=SUCCESS agent="python-requests/2.32.3"
+[2025-04-18 01:18:38] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:18:38] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:18:38] LOGIN user=admin ip=127.0.0.1 status=SUCCESS agent="python-requests/2.32.3"
+[2025-04-18 01:56:26] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:27] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:27] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:27] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:28] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:28] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:28] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:28] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:29] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:29] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:29] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:30] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:30] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:30] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:31] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:31] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:31] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:32] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:32] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:32] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:32] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:33] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:33] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:33] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 01:56:34] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:08:14] LOGIN user=admin ip=127.0.0.1 status=SUCCESS agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 02:08:26] LOGIN user=admin  ip=127.0.0.1 status=FAILURE agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 02:08:43] LOGIN user=admin ip=127.0.0.1 status=SUCCESS agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 02:08:53] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 02:09:30] LOGIN user=user1 ip=127.0.0.1 status=SUCCESS agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 02:09:39] LOGIN user=user1 ip=127.0.0.1 status=FAILURE agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 02:23:04] LOGIN user=admin ip=127.0.0.1 status=SUCCESS agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 02:23:15] LOGIN user=guest ip=127.0.0.1 status=SUCCESS agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 02:23:21] LOGIN user=guest ip=127.0.0.1 status=FAILURE agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 02:23:29] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 02:28:18] LOGIN user=admin ip=10.0.0.22 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:18] LOGIN user=admin ip=10.0.0.22 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:18] LOGIN user=admin ip=172.16.0.5 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:18] LOGIN user=admin ip=198.51.100.42 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:18] LOGIN user=admin ip=203.0.113.99 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:19] LOGIN user=admin ip=203.0.113.99 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:19] LOGIN user=admin ip=192.168.1.10 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:19] LOGIN user=admin ip=192.168.1.10 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:19] LOGIN user=admin ip=192.168.1.10 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:20] LOGIN user=admin ip=172.16.0.5 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:20] LOGIN user=admin ip=198.51.100.42 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:20] LOGIN user=admin ip=10.0.0.22 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:20] LOGIN user=admin ip=198.51.100.42 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:20] LOGIN user=admin ip=203.0.113.99 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:21] LOGIN user=admin ip=10.0.0.22 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:21] LOGIN user=admin ip=192.168.1.10 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:21] LOGIN user=admin ip=192.168.1.10 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:21] LOGIN user=admin ip=203.0.113.99 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:21] LOGIN user=admin ip=198.51.100.42 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:22] LOGIN user=admin ip=10.0.0.22 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:22] LOGIN user=admin ip=203.0.113.99 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:22] LOGIN user=admin ip=198.51.100.42 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:22] LOGIN user=admin ip=192.168.1.10 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:22] LOGIN user=admin ip=10.0.0.22 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:23] LOGIN user=admin ip=192.168.1.10 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:23] LOGIN user=admin ip=192.168.1.10 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:23] LOGIN user=admin ip=192.168.1.10 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:23] LOGIN user=admin ip=198.51.100.42 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:23] LOGIN user=admin ip=198.51.100.42 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:28:24] LOGIN user=admin ip=172.16.0.5 status=FAILURE agent="python-requests/2.32.3"
+[2025-04-18 02:38:33] LOGIN user=user1 ip=127.0.0.1 status=SUCCESS agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 02:46:09] LOGIN user=yath ip=127.0.0.1 status=FAILURE agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
+[2025-04-18 03:35:18.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:33.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:04.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:16.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:31.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:00.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:18.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:18.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:42.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:46.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:05.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:24.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:40.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:10.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:40.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:36.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:41.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:10.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:12.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:18.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:12.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:54.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:57.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:48.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:39.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:52.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:19.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:48.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:28.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:57.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:29.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:30.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:00.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:01.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:40.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:24.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:26.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:14.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:56.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:20.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:21.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:07.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:07.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:47.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:53.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:10.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:08.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:18.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:01.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:12.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:58.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:38.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:10.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:40.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:08.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:28.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:24.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:45.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:44.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:40.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:51.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:45.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:52.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:00.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:33.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:49.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:12.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:03.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:06.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:18.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:01.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:36.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:21.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:40.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:27.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:39.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:32.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:57.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:15.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:01.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:36.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:09.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:06.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:04.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:35:48.830456] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:39.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:02.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:07.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:55.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:34.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:02.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:08.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:55.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:44.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:28.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:11.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:52.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:13.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:31.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:38.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:57.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:02.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:52.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:54.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:15.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:06.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:53.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:07.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:01.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:06.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:48.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:53.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:38.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:34.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:41.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:24.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:01.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:46.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:00.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:30.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:21.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:56.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:44.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:59.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:09.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:04.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:25.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:36.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:19.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:01.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:07.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:29.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:21.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:36.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:22.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:43.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:44.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:38.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:29.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:06.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:19.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:52.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:57.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:39.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:15.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:21.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:21.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:46.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:57.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:47.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:54.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:05.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:05.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:44.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:02.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:42.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:51.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:26.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:49.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:11.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:11.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:19.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:50.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:05.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:49.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:05.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:03.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:35.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:23.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:07.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:07.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:01.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:29.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:09.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:45.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:56.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:03.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:32.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:13.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:16.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:06.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:05.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:08.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:37:04.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-18 03:36:07.858892] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:40:24] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+[2025-04-20 00:40:24] LOGIN user=admin ip=127.0.0.1 status=SUCCESS agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+[2025-04-20 00:41:05] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+[2025-04-20 00:41:05] LOGIN user=admin ip=127.0.0.1 status=SUCCESS agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+[2025-04-20 00:41:37] LOGIN user=mekh ip=127.0.0.1 status=FAILURE agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+[2025-04-20 00:43:50.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:17.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:05.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:32.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:16.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:34.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:24.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:35.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:47.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:36.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:46.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:47.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:53.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:39.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:40.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:37.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:36.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:43.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:03.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:18.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:19.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:41.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:32.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:33.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:32.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:56.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:06.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:31.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:28.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:15.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:33.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:09.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:59.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:03.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:33.928697] user=admin ip=192.168.1.100    status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:53.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:59.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:01.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:11.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:27.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:14.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:24.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:47.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:26.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:44.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:38.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:46.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:37.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:37.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:58.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:06.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:31.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:23.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:46.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:40.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:24.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:54.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:08.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:32.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:51.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:45.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:40.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:55.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:15.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:18.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:56.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:40.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:06.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:38.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:42.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:54.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:35.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:56.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:17.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:43.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:26.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:40.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:53.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:37.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:32.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:21.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:08.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:53.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:37.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:38.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:26.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:00.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:10.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:22.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:27.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:17.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:10.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:41.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:44:09.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:44.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:48.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:44.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:36.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:36.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-04-20 00:43:47.928697] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:15:42] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:43] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:43] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:43] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:43] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:43] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:44] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:44] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:44] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:44] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:44] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:45] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:45] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:45] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:45] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:45] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:46] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:46] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:46] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:46] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:46] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:47] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:47] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:47] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:47] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:47] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:48] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:48] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:48] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:15:48] LOGIN user=admin ip=127.0.0.1 status=FAILURE agent="python-requests/2.32.3"
+[2025-05-01 01:19:13.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:58.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:18.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:08.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:00.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:33.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:25.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:55.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:53.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:04.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:22.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:13.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:14.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:46.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:20.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:34.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:52.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:15.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:54.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:22.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:51.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:59.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:44.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:15.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:09.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:15.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:20.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:26.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:42.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:10.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:25.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:22.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:43.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:32.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:09.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:41.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:31.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:13.644419] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:48.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:12.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:08.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:02.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:49.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:49.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:52.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:57.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:41.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:52.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:48.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:46.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:09.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:45.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:38.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:41.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:01.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:12.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:14.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:22.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:01.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:59.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:25.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:25.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:05.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:07.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:05.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:12.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:28.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:27.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:40.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:30.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:33.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:27.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:08.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:04.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:00.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:21.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:57.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:33.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:02.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:48.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:59.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:37.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:03.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:15.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:41.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:16.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:31.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:54.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:11.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:43.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:00.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:36.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:18.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:54.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:26.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:11.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:19.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:40.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:39.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:45.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:15.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:08.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:45.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:22.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:47.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:37.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:35.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:52.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:03.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:34.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:48.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:28.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:42.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:56.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:06.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:32.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:11.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:18:45.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:02.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:01.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:02.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:41.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:04.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:16.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:26.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:41.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:03.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:44.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:39.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:36.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:31.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:05.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:24.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:23.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:16.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:29.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:28.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
+[2025-05-01 01:19:32.468049] user=admin ip=192.168.1.100 status=FAILURE agent=Mozilla/5.0
